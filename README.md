@@ -19,6 +19,3 @@ I build web applications with Next.js and React. I focus on shipping practical p
 - [Eaziwage](https://eaziwage.com) — Payroll & HR platform (production product).
 - Personal portfolio: https://kamaumark.vercel.app
 
----
-
-> Want this README tuned (more visuals, stats badges, or a longer bio)? Tell me which style and I’ll update it.
