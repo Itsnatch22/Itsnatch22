@@ -14,7 +14,7 @@ I build web applications with Next.js and React. I focus on shipping practical p
 - Next.js, React, JavaScript
 - HTML, CSS, REST APIs
 - Deployment: Vercel
-- Database: Supabase(https://supabase.com)
+- Database: Supabase
 
 ##  Featured Projects
 - [Eaziwage](https://eaziwage.com) — Payroll & HR platform (production product).
